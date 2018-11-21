@@ -12,6 +12,18 @@ You need to connect some components to your Arduino:
 
 ![circuit](circuit.png)
 
+Use a 3.5 mm mono plug to connect the Arduino to the S-Link/Control A1 port of the Sony equipment and connect the Arduino to a USB port in your computer for power and serial communication.
+
+Use the serial port to send commands to the Sony equipment. Commands are sent as lines of hexadecimal data. Here are some commands to try:
+
+* c02e - power on amplifier
+* c02f - power off amplifier
+* c06a - query amplifier name
+
+Take a look [here](http://boehmel.de/slink.htm) for more commands.
+
+----
+
 Reference documents:
 * http://web.archive.org/web/20070720171202/http://www.reza.net/slink/text.txt
 * http://web.archive.org/web/20100325172411/http://www.undeadscientist.com/slink
