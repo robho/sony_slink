@@ -26,5 +26,5 @@ Take a look [here](http://boehmel.de/slink.htm) for more commands.
 
 Reference documents:
 * http://web.archive.org/web/20070720171202/http://www.reza.net/slink/text.txt
-* http://web.archive.org/web/20100325172411/http://www.undeadscientist.com/slink
+* http://web.archive.org/web/20070705130320/http://www.undeadscientist.com/slink/
 * http://web.archive.org/web/20180831072659/http://boehmel.de/slink.htm
